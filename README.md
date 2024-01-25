@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aumbhusal" alt="aumbhusal" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js**
-
-- 📝 I regularly write articles on [https://thenepalgadget.com/](https://thenepalgadget.com/)
+- 🌱 I’m currently learning **Node.js and Flutter**
 
 - 💬 Ask me about **Flutter**
 
