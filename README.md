@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aum</h1>
 <h3 align="center">🧑‍💻 Full-Stack Developer • 🎮 Game Developer • 🎨 3D Artist</h3>
 
-- 🔭 I’m currently working on **Mobile App**
+🔭 I’m currently working on **Novaire**
+
+📱 Check it out here: https://novaire.app
 
 - 🔭 I’m currently working on **Horror Game**
 
